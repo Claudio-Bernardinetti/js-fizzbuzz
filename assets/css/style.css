@@ -46,3 +46,15 @@ li {
     background-color: blue;
     margin: 0.5rem;
 }
+
+.red {
+    background-color: red;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.yellow {
+    background-color: yellow;
+}
